@@ -6,8 +6,6 @@
 int main()
 {
     std::cout << "Hello World!\n";
-    //EStoy en dev y tengo que pasarlo a master
-    //
 }
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
